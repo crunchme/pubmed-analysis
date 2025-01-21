@@ -1,6 +1,6 @@
 ### Python Notebooks for Analysis of PubMed Data
 ---
 
-#### 🧑‍💻 Lead Developer
+#### 🧑‍💻 Lead Developers
 
 Rory Preston - Contact: rory@crunchme.org
